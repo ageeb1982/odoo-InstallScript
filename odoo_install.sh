@@ -257,7 +257,7 @@ sudo update-rc.d $OE_CONFIG defaults
 # Solution Error if Not Complete -edit By mohamed ageeb-
 #--------------------------------------------------
 
-sudo apt-get install build-essential python3-dev libsqlite3-dev python3-lxml
+sudo apt-get install build-essential python3-dev libsqlite3-dev python3-lxml python3-setuptools
 sudo apt-get install -y libxml2-dev libxslt1-dev zlib1g-dev python3-pip
 cd $OE_HOME_EXT
 sudo pip3 install kivy
