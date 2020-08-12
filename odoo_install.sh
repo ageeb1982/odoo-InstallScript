@@ -1,6 +1,6 @@
 #!/bin/bash
 ################################################################################
-# Script for installing Odoo on Ubuntu 14.04, 15.04, 16.04 and 18.04 (could be used for other version too)
+# Script for installing Odoo on Ubuntu 14.04, 15.04, 16.04 and 18.04  and linux mint 19.3 (could be used for other version too)
 # Author: Yenthe Van Ginneken
 # Edit by : Mohamed khidir ageeb
 #-------------------------------------------------------------------------------
