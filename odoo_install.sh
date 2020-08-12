@@ -262,6 +262,7 @@ sudo apt-get install libpcap-dev python3-ldap
 cd $OE_HOME_EXT
 sudo pip3 install kivy
 sudo pip3 install lxml
+sudo pip3 install pyldap
 sudo pip3 install -r requirements.txt
 #----------------------------------------------------------------------------
 
