@@ -254,11 +254,11 @@ echo -e "* Start ODOO on Startup"
 sudo update-rc.d $OE_CONFIG defaults
 
 #--------------------------------------------------
-# Solution Error if Not Complete -edit By mohamed ageeb-
+# Solution Error if Not Complete -Edit By Mohamed Khidir Ageeb-
 #--------------------------------------------------
  sudo apt-get install build-essential python3-dev libsqlite3-dev python3-lxml python3-setuptools libevent-dev python-dev
 sudo apt-get install -y libxml2-dev libxslt1-dev zlib1g-dev python3-pip 
-sudo apt-get install libpcap-dev
+sudo apt-get install libpcap-dev python3-ldap
 cd $OE_HOME_EXT
 sudo pip3 install kivy
 sudo pip3 install lxml
